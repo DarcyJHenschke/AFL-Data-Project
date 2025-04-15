@@ -137,3 +137,70 @@ This project enhances historical AFL match data by:
     ```
 
 ## Data Visualisations (Power BI)
+
+    Using the data from the outputted CSV file a Power BI Dashboard has been Created
+    This Dashboard can be viewed in the following link:
+
+[▶️ Watch Demo](Media/Videos/PowerBI_Walkthrough.mp4)
+
+    The Data Tables and Measures used can be seen in the following images:
+
+<figure>
+<figcaption>Data Table</figcaption>
+<img src="./Media/Images/Data_Table.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Measures</figcaption>
+<img src="./Media/Images/Measures.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>% of Matches with Rain</figcaption>
+<img src="./Media/Images/%25 of Matches with Rain.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Average Odds of Underdog Win</figcaption>
+<img src="./Media/Images/AVG Odds of Underdog Win.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Average Rain (Underdog Wins)</figcaption>
+<img src="./Media/Images/AVG Rain (Underdog Wins).png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Favourite Win Rate</figcaption>
+<img src="./Media/Images/Favourite Win Rate.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Matches with Rain</figcaption>
+<img src="./Media/Images/Matches with Rain.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Total Favourite Wins</figcaption>
+<img src="./Media/Images/Total Favourite Wins.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Total Matches</figcaption>
+<img src="./Media/Images/Total Matches.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Total Underdog Wins</figcaption>
+<img src="./Media/Images/Total Underdog Wins.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Underdog Win Rate</figcaption>
+<img src="./Media/Images/Underdog Win Rate.png" width="600px"/>
+</figure>
+
+<figure>
+<figcaption>Underdog Wins in Rain</figcaption>
+<img src="./Media/Images/Underdog Wins in Rain.png" width="600px"/>
+</figure>
