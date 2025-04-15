@@ -141,7 +141,7 @@ This project enhances historical AFL match data by:
     Using the data from the outputted CSV file a Power BI Dashboard has been Created
     This Dashboard can be viewed in the following link:
 
-[▶️ Watch Demo](Media/Videos/PowerBI_Walkthrough.mp4)
+[▶️ Watch Demo](Media/Videos/PowerBI_walkthrough.mp4)
 
     The Data Tables and Measures used can be seen in the following images:
 
